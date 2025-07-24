@@ -1,0 +1,68 @@
+<resources>
+    <string name="app_name">Portfolio</string>
+
+    <string name="myName"><u>Dhruv Patil</u></string>
+    <string name="Profession">An Android Dev</string>
+
+    <string name="Pic_info">Picture</string>
+    <string name="txt_header">Profile</string>
+
+    <style name="circle">
+        <item name="cornerSize">50%</item>
+    </style>
+
+    <string name="txt_work">🟢 Looking for opprtunity as intern</string>
+
+    <string name="btn_Skills">Skills</string>
+    <string name="btn_Projects">Projects</string>
+    <string name="btn_Experience">Experience</string>
+
+    <string name="lbl_Phone">Phone :</string>
+    <string name="lbl_Email">Email  :</string>
+
+    <string name="info_Phone">+91 9723997xyz</string>
+    <string name="info_Email">dhruvpatil1606@gmail.com</string>
+
+    <string name="Skill_page_Header">This is Skill Page.</string>
+
+    <string name="Project_page_Header">This is Project Page.</string>
+
+    <string name="Experience_page_Header">This is Experience Page.</string>
+
+    <string name="btnEducation">Education</string>
+
+
+    <string name="Education"><u>Education</u></string>
+
+    <string name="Education_info_1">→ Parul University NAAC A++</string>
+    <string name="Education_info_1.1">B.Tech - Computer Engineering</string>
+    <string name="Education_info_1.2">CGPA : 8.13</string>
+
+    <string name="Education_info_2">→ Parul University NAAC A++</string>
+    <string name="Education_info_2.1">Diploma - Computer Engineering</string>
+    <string name="Education_info_2.2">CGPA : 8.71</string>
+
+    <string name="btn_leetcode">LeetCode</string>
+    <string name="btn_LinkedIn">LinkedIn</string>
+    <string name="btn_GitHub">GitHub</string>
+    <string name="btn_YouTube">YouTube</string>
+    <string name="btn_X">X</string>
+    <string name="btn_Instagram">Instagram</string>
+
+    <string name="txt_Skills"><u>Skills</u></string>
+
+    <string name="lbl_projectTitle"><u>Projects</u></string>
+
+
+    <string name="first_project_info_1">1. Rail Employee</string>
+    <string name="second_project_info_1">2. Music Player</string>
+
+
+    <string name="lbl_experienceTitle"><u>Experience</u></string>
+
+    <string name="internship_1">→ SM Soni InfoSoft</string>
+    <string name="internship_1.0">As ASP.NET Developer Intern</string>
+    <string name="internship_1.1">1 month</string>
+
+
+</resources>
